@@ -57,43 +57,6 @@ Amazon Clone/
 
 ---
 
-## 🚀 Getting Started
-
-Follow these simple steps to run this project on your local machine:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/sujal-sabale/amazon-clone.git
-```
-
-### 2. Open Project Folder
-```bash
-cd amazon-clone
-```
-
-### 3. Run the Project
-Simply open `index.html` in your favorite web browser:
-- Double click on [index.html](file:///c:/Users/Sujal/Documents/Study/Projects/Amazon%20Clone/index.html)
-- Or right-click and choose **Open with Live Server** (if using VS Code)
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Add functional shopping cart with JavaScript (localStorage)
-- [ ] Implement live product search filtering
-- [ ] Add Amazon footer section (Back to top, Get to Know Us, Payment Products)
-- [ ] Full mobile responsiveness with a collapsible hamburger sidebar
-
----
-
-## 👤 Author
-
-- **Sujal Sabale**
-- GitHub: [@sujal-sabale](https://github.com/sujal-sabale)
-
----
-
 ## 📄 License
 
 This project is created for educational and personal portfolio purposes. Amazon brand and assets are trademarks of Amazon.com, Inc.
